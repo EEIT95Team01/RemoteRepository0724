@@ -57,7 +57,7 @@ public class ProductController {
 
 			}
 			if (bindingResult.getFieldError("expire") != null) {
-				errors.put("expire", "Expire必須是整數 (mvc)!!!!!!");
+				errors.put("expire", "Expire必須是整數 (mvc)");
 			}
 		}
 
