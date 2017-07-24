@@ -9,8 +9,6 @@
 </head>
 <body>
 
-<h2>aaaaaaaa</h2>
-<h2>aaaaaaaa</h2>
 <h3>Welcome ${user.custid}</h3>
 <h3>Welcome ${user.email}</h3>
 
@@ -18,6 +16,9 @@
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
 
 <h2>aaaaaaaa</h2>
+<h2>bbbbbb</h2>
+<h2>cccc</h2>
+
 
 </body>
 </html>
