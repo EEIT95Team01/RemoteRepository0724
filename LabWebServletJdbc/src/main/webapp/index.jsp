@@ -9,17 +9,6 @@
 </head>
 <body>
 
-<h3>Welcome1 ${user.custid}</h3>
-<h3>Welcome 2${user.custid}</h3>
-<h3>需要一點衝突!!!</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h2>aaaaaaaa</h2>
-
-<h2>aaaaaaaa</h2>
-<h2>aaaaaaaa</h2>
-<h2>aaaaaaaa</h2>
-
 <h3>Welcome ${user.custid}</h3>
 
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
