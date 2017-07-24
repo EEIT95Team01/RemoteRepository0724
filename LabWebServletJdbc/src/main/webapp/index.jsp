@@ -12,30 +12,7 @@
 
 <h3>Welcome ${user.custid}</h3>
 <h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
-<h3>Welcome ${user.custid}</h3>
+
 
 <h2>aaaaaaaa</h2>
 <h2>aaaaaaaa</h2>
