@@ -14,7 +14,6 @@
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
 
-<h3>試試看commit</h3>
 
 </body>
 </html>
